@@ -1,5 +1,5 @@
 # Moore-Graph-Backtracking
 
-Recursive and iterative backtracking implementations for determining whether Moore(k, d) exists.
+Recursive and iterative backtracking implementations for determining whether <code>Moore(k, d)</code> exists.
 
-Usage: mooreBacktrack.py <k d> <recursive|iterative> <new|continue>
+Usage: <code>mooreBacktrack.py <k d> <recursive|iterative> <new|continue></code>
